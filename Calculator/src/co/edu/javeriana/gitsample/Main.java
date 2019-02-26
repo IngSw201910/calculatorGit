@@ -6,6 +6,7 @@ public class Main {
 		//Create calculator implementation
 		//Calculator c = new Calculator()
 		//c.substract (100.5, 200)
+		//Other operations
 	}
 
 }
