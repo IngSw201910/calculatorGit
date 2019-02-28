@@ -8,4 +8,5 @@ public class Authors {
 	public static final String JSTP = "Juan Sebastian Triana Perez";
 	public static final String LJMP = "Laura Juliana Mora Paez";
 	public static final String JAPB = "Jhonny Alexander Parra Barrera";
+	public static final String DBS = "Daniela Beltran Saavedra";
 }
