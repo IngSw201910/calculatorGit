@@ -7,4 +7,5 @@ public class Authors {
 	public static final String SACP= "Santiago Alejandro Chaparro Palacio";
 	public static final String JSTP = "Juan Sebastian Triana Perez";
 	public static final String LJMP = "Laura Juliana Mora Paez";
+	public static final String JAPB = "Jhonny Alexander Parra Barrera";
 }
