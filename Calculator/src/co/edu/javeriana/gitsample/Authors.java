@@ -5,4 +5,5 @@ public class Authors {
 	public static final String OA = "Other Author";
 	public static final String MABR = "Miguel Beltrán";
 	public static final String SACP= "Santiago Alejandro Chaparro Palacio";
+	public static final String JSTP = "Juan Sebastian Triana Perez";
 }
