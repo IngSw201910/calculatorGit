@@ -28,7 +28,7 @@ public class CalculadoraMABR implements ICalculator {
 
 	@Override
 	public String about() {
-		return "Calculator implementend by Authors.MABR";
+		return "Calculator implementend by "+Authors.MABR;
 	}
 
 }
