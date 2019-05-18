@@ -1,6 +1,6 @@
 package co.edu.javeriana.gitsample;
 
-public class CalculadoraSACP  implements ICalculator {
+public class CalculadoraSACP {
 	
 	double sumar(double a, double b)
 	{
